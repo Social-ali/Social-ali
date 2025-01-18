@@ -3,7 +3,7 @@
 - 👀 I’m interested in front-end development, building engaging user interfaces, and exploring new web technologies.
 - 🌱 I’m currently learning React, TypeScript, and improving my design-to-code skills with tools like Figma.
 - 💞️ I’m looking to collaborate on open-source projects, UI/UX design, and web applications for social causes.
-- 📫 How to reach me: [Your Email] or connect with me on [LinkedIn/Twitter/GitHub].
+- 📫 How to reach me: [alitech.creative22@gmail.com] or connect with me on [https://www.linkedin.com/in/ali-ameer-a2aa21254/].
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can solve a Rubik’s Cube in under a minute!
 
